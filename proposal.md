@@ -1,5 +1,5 @@
 # The BMI app
-
+## Type "Hello" to get the apps info
 
 ## What the app does
          1. Enter your weight and height to find out you BMI ()
