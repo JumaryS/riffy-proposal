@@ -7,7 +7,7 @@
 
 ## Getting started
          1. Start by typing Hello (with a capital H)
-         2. Enter your weight (just the number in inches) and height (just the number in pounds to find out you BMI ()
+         2. Enter your weight (just the number in inches) and height (just the number in pounds to find out your BMI ()
         
          3.You can then type your bmi range in the node to get a healthy tip
          
