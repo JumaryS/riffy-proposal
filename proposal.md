@@ -1,4 +1,4 @@
-# che BMI app
+# The BMI app
 
 
 ## BMI app and what it does
