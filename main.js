@@ -10,7 +10,7 @@ function getInput(i) {
 
 
 if(param1 === undefined && param2 === undefined){
-return  " please place either your height and weight or bmi range as an input. Make sure to only put your height in inches and your weight in lbs so if you are 5 ft 2in your input should be 62 and if you are 120 lbs your input should be 120. Typing you bmi range for example undrweight, optimal or over weight will give you back a few diet and workout tips "
+return  " Please place an input or inputs to get started "
 
 }
 else if(param1 !== undefined && param2 === undefined){
