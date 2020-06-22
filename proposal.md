@@ -38,5 +38,5 @@
 - [ ] Then reply with yes or no if youll like to know what workouts best fit for you.
 - [ ] you can ask for a diet plan by typing diet for this BMI
 - [ ] Can suggest a home, studio or Gym 
-- [ ] Suggest a eating plan
+- [ ] potential mental health or eating disorder options 
 - [ ] Workout routine
