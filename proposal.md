@@ -27,6 +27,8 @@
 ####  The main.js file
 ![](main.png)
 
+### Step three connect both back-ends to the front end
+
 # Stretch goals
 
         -[ ]Have a second option such as if you enterd you height and weight and got back a bmi my app will later ask "would you like a meal plan?" and if its a yes it will show some options. If no then itll say "Okay"
