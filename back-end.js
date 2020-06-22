@@ -16,7 +16,7 @@
 
 function theBmiChart(height, weight){
     let bmiCalculation = 703 * weight / (height**2) ;
-    console.log(bmiCalculation)
+        console.log(bmiCalculation)
     if (bmiCalculation >= 12 && bmiCalculation <= 16){
         return "Your bmi is in the severly undrweight range. Make sure to type your bmi range in the terminal to get some diet and exercise tips!! "
     }
@@ -37,7 +37,7 @@ function theBmiChart(height, weight){
     }
     
 } 
-
+//  console.log(theBmiChart(62,200))
 
 
 
