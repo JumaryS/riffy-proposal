@@ -1,3 +1,7 @@
+
+//was meant for minor medical conditions 
+// 
+
 function healthyTips(tipsPerBmi){
     let str = "Hello"
     if (str === "Hello"){
