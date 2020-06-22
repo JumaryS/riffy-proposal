@@ -37,7 +37,7 @@ function theBmiChart(height, weight){
     }
     
 } 
-console.log(theBmiChart(62, 200))
+
 
 
 

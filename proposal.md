@@ -1,10 +1,15 @@
-# The BMI app
-## Type "Hello" to get the apps info
+# che BMI app
 
-## What the app does
-         1. Enter your weight and height to find out you BMI ()
-         <!-- 2. Then reply with yes or no if youll like to know what workouts best fit for you.
-         3. you can ask for a diet plan by typing diet for this BMI -->
+
+## BMI app and what it does
+            * the BMI app calculates your height and weight and gives a range of the persons body mass index .
+            * The Bmi app can give a small healthy tip depending on your bmi
+
+## Getting started
+         1. Str
+         2. Enter your weight (just the number in inches) and height (just the number in pounds to find out you BMI ()
+        
+         3.You
          
 
 
