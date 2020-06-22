@@ -24,7 +24,7 @@
 #### The diet back-end file 
 ![](diet.png)
 
-####  
+####  The main.js file
 ![](main.png)
 
 # Stretch goals
