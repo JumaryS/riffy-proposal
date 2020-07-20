@@ -8,7 +8,7 @@ function getInput(i) {
     return process.argv[i + 2];
 }
 
-hhhhhhh
+iiiiiiii
 if(param1 === undefined && param2 === undefined){
 return  " Please place an input or inputs to get started "
 
